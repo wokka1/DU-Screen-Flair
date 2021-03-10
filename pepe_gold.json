@@ -170,7 +170,7 @@
 			"code": "-- Rolodex Available to the Interface\n\nItemsList = {
 \n    [\"hcGoldGlossy\"] = {\n        [\"IconInGamePath\"] = \"../../../../../../../resources_generated/iconsLib/materialslib/env_gold-glossy-hc_icon.png\",\n        [\"Name\"] = \"Glossy Gold\",\n        [\"NqRecipeId\"] = 557647957\n    },
 \n    [\"hcGoldMatte\"] = {\n        [\"IconInGamePath\"] = \"../../../../../../../resources_generated/iconsLib/materialslib/env_gold-matte-hc_icon.png\",\n        [\"Name\"] = \"Matte Gold\",\n        [\"NqRecipeId\"] = 900707660\n    },
-\n    [\"hcGoldAged\"] = {\n        [\"IconInGamePath\"] = \"../../../../../../../resources_generated/iconsLib/materialslib/env_gold-aged-hc_icon\",\n        [\"Name\"] = \"Aged Gold\",\n        [\"NqRecipeId\"] = 1454552567\n    },
+\n    [\"hcGoldAged\"] = {\n        [\"IconInGamePath\"] = \"../../../../../../../resources_generated/iconsLib/materialslib/env_gold-aged-hc_icon.png\",\n        [\"Name\"] = \"Aged Gold\",\n        [\"NqRecipeId\"] = 1454552567\n    },
 \n    [\"GoldMattHCBlack\"] = {\n        [\"IconInGamePath\"] = \"../../../../../../../resources_generated/iconsLib/materialslib/GoldMattHCBlack.png\",\n        [\"Name\"] = \"Galvanized black gold\",\n        [\"NqRecipeId\"] = 1454552567\n    },
 \n    [\"GoldBrightHCBlack\"] = {\n        [\"IconInGamePath\"] = \"../../../../../../../resources_generated/iconsLib/materialslib/GoldBrightHCBlack.png\",\n        [\"Name\"] = \"Polished black gold\",\n        [\"NqRecipeId\"] = 572201438\n    },
 \n    [\"GoldMattHCWhite\"] = {\n        [\"IconInGamePath\"] = \"../../../../../../../resources_generated/iconsLib/materialslib/GoldMattHCWhite.png\",\n        [\"Name\"] = \"Galvanized white gold\",\n        [\"NqRecipeId\"] = 763104494\n    },
